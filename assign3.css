@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border box;
+}
+body{
+    background-color: rgb(244, 251, 250);
+}
+
+.nav-top{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+
+}
+.nav-top input{
+    color: rgb(147, 225, 240);
+    border-radius: 5px;
+    border: 2px solid rgb(0, 162, 255);
+   
+}   
+.nav-top button{
+    padding: 10px;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    border: 0;
+}
+
+.side{
+    position: absolute;
+}
+.side-top{
+    height: 100vh;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.side-middle{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.side-down{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+
+
