@@ -1,0 +1,76 @@
+var jsonObject = {
+    "products":[
+        {
+            "image": "./images/Group 42.png",
+            "title": "Mahalakshmi",
+            "description": "Software Developer",
+            "content": "Working as a front end developer"
+         },
+         {
+            "image": "./images/Group 43.png",
+             "title": "Manikandan",
+             "description": "Software Developer",
+             "content": "Working as a front end developer"
+         },
+        {
+            "image": "./images/Group 41.png",
+            "title": "Christopher",
+            "description": "Software Developer",
+            "content": "Working as a front end developer"
+        },
+        {
+            "image": "./images/Group 42.png",
+            "title": "Kameshwaren",
+            "description": "Software Developer",
+            "content": "Working as a front end developer"
+        },
+        {
+            "image": "./images/Group 43.png",
+            "title": "Adithya",
+            "description": "Software Developer",
+            "content": "Working as a front end developer"
+        },
+        {
+            "image": "./images/Group 42.png",
+            "title": "Kameshwaren",
+            "description": "Software Developer",
+            "content": "Working as a front end developer"
+        },
+        {
+            "image": "./images/Group 41.png",
+            "title": "Anoosha",
+            "description": "Software Developer Intern",
+            "content": "Working as a front end developer"
+        },
+        {
+            "image": "./images/Group 43.png",
+            "title": "sample",
+            "description": "Software Developer Intern",
+            "content": "Working as a front end developer"
+        },
+        {
+            "image": "./images/Group 42.png",
+            "title": "Christopher",
+            "description": "Software Developer",
+            "content": "Working as a front end developer"
+        },
+        {
+            "image": "./images/Group 43.png",
+            "title": "Anoosha",
+            "description": "Software Developer Intern",
+            "content": "Working as a front end developer"
+        },
+        {
+            "image": "./images/Group 41.png",
+            "title": "Poornima",
+            "description": "Software Developer Intern",
+            "content": "Working as a front end developer"
+        },
+        {
+            "image": "./images/Group 41.png",
+            "title": "Mahalakshmi",
+            "description": "Software Developer Intern",
+            "content": "Working as a front end developer"
+        },
+    ]
+}
