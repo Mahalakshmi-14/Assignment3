@@ -10,7 +10,7 @@ $(document).ready(function(e){
 function loadProducts(data){
 
 var mydata = document.createElement('div');
-   mydata.innerHTML =  '<div class="box1">' +
+   mydata.innerHTML =  '<div class="box2">' +
    '<img src="' + data.image +'">' +
    '<div class="myname">' +
    '<p class="p1">' + data.title +'</p>' +
