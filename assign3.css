@@ -115,16 +115,25 @@ header{
     grid-row-gap: 20px;
    
 }
-
+/* .card1:hover > .box2{
+    display: none;
+}
+.card1:hover > .box1{
+    display: block;
+} */
 
 .box1{
-    display: grid;
+    display: none;
     height: 140px;
     width: 300px;
     background-color: #FFFFFF ;
     border-radius: 20px;
     border-color: rgba(85, 157, 202, 0.879);
     font-style: normal;
+    font-size: medium;
+    padding-left: 15px;
+    /* margin-left: 8px;
+    margin-right: 5px; */
     
     /* display: none; */
     box-shadow: 0 0 10px 2px rgb(179, 221, 235);
@@ -158,6 +167,12 @@ header{
     border-color: 0px 2px 6px #c3e7f4;
     border-top-width: 2px;
 }
+/* div:hover > .card{
+    display:none;
+}
+div: hover > .box1{
+    display:block;
+} */
 /* .box1 img{
     margin-top: 15px;
     margin-left: 15px;
@@ -205,9 +220,13 @@ header{
     border-color: rgba(85, 157, 202, 0.879);
     font-style: normal;
     box-shadow: 0 0 10px 2px rgb(179, 221, 235);
-    
 }
-
+/* .box2:hover{
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: 0px 2px 6px #c3e7f4;
+    border-top-width: 2px;
+} */
 .box2 img{
     margin-top: 15px;
     margin-left: 15px;
